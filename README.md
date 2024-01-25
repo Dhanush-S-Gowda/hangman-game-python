@@ -31,7 +31,7 @@ This Hangman game is a text-based Python implementation where players can guess 
 
 ## How to Run
 
-1. Clone this repository to your local machine.
+1. Clone this repository to your local machine (Make sure to keep all these files in the same folder).
 2. Ensure you have Python installed.
 3. Open a terminal in the project directory.
 4. Run the command: `python hangman_game.py`
